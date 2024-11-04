@@ -19,3 +19,17 @@ Below are the questions I answer in my project:
  - How well do jobs and skills pay for Data Analysts?
  - What are the optimal skills for data analysts to learn?
 
+![Visualization of Top Skills for Data Roles](assets/img/skill_demand_top_roles.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
