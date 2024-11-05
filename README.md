@@ -7,6 +7,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Projects
 
+*Note: Click each project title to view the full project, including code, visualizations, and detailed explanations of my analysis steps.*
+
 ### [Project 1: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
 
 This project was created out of a desire to navigate and understand the job market more effectively as well as to aid me in my job search. It delves into top-paying and in-demand skills to help find optimal job opportunities for data analysts.
@@ -18,7 +20,7 @@ Below are the questions I answer in the project:
  - How well do jobs and skills pay for Data Analysts?
  - What are the optimal skills for data analysts to learn?
 
-![Visualization of Top Skills for Data Roles](assets/img/skill_demand_top_roles.png) # Done
+![Visualization of Top Skills for Data Roles](assets/img/skill_demand_top_roles.png)
 
 ![Trending Top Skills for Data Analysts in the US](assets/img/skill_trend.png)
 
