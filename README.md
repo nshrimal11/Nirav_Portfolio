@@ -38,3 +38,7 @@ Below are the questions I answer in the project:
     <img src="assets/img/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="100%">
 </p>
 
+
+### [Project 2: Wheelchair Basketball Kinematics](https://github.com/nshrimal11/Data_Job_Market_Project) 
+
+ This is a project I did for my final year research project, where I designed a cost-effective sensor-based system tailored for wheelchair basketball athletes, addressing the need for accessible and relevant performance metrics. For this, I created an app (R Shiny App) where the data from the system can be fed through and the athlete's kinematics can be viewed and analyzed.
