@@ -44,6 +44,6 @@ Below are the questions I answer in the project:
 This is a project I did for my final year research project, where I designed a cost-effective sensor-based system tailored for wheelchair basketball athletes, addressing the need for accessible and relevant performance metrics. For this, I created an app (R Shiny App) where the data from the system can be fed through and the athlete's kinematics can be viewed and analyzed.
 
 Supporting Docs:
-[Project Poster](Final_Year_Project_Files/Poster.pdf)
-[Project Report](Final_Year_Project_Files/Report.pdf)
+[Poster](Final_Year_Project_Files/Poster.pdf), 
+[Report](Final_Year_Project_Files/Report.pdf)
 
