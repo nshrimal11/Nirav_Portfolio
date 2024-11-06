@@ -39,6 +39,11 @@ Below are the questions I answer in the project:
 </p>
 
 
-### [Project 2: Wheelchair Basketball Kinematics](https://github.com/nshrimal11/Data_Job_Market_Project) 
+### [Project 2: Wheelchair Basketball Kinematics](Final_Year_Project_Files/Poster.pdf) 
 
- This is a project I did for my final year research project, where I designed a cost-effective sensor-based system tailored for wheelchair basketball athletes, addressing the need for accessible and relevant performance metrics. For this, I created an app (R Shiny App) where the data from the system can be fed through and the athlete's kinematics can be viewed and analyzed.
+This is a project I did for my final year research project, where I designed a cost-effective sensor-based system tailored for wheelchair basketball athletes, addressing the need for accessible and relevant performance metrics. For this, I created an app (R Shiny App) where the data from the system can be fed through and the athlete's kinematics can be viewed and analyzed.
+
+Supporting Docs:
+[Project Poster](Final_Year_Project_Files/Poster.pdf)
+[Project Report](Final_Year_Project_Files/Report.pdf)
+
