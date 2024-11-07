@@ -53,5 +53,10 @@ Supporting Docs:
     <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball Kinematics App Preview" width="100%">
 </p>
 
+<p align="center">
+    <img src="Final_Year_Project_Files/designed_system.jpg" alt="Wheelchair Basketball System Design" width="100%">
+</p>
+
+
 
 
