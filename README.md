@@ -39,7 +39,7 @@ Below are the questions I answer in the project:
 </p>
 
 
-### [Project 2: Wheelchair Basketball Kinematics App](Final_Year_Project_Files/Poster.pdf) 
+### [Project 2: Wheelchair Basketball Kinematics App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) 
 
 This project, completed as part of my undergraduate final-year research, involved designing an accessible, cost-effective sensor-based system specifically for wheelchair basketball athletes to monitor performance metrics relevant to their sport. I developed an accompanying R Shiny app that processes data from the system to calculate, display, and analyze key kinematic metrics. This enables athletes to track their performance, pinpoint areas for improvement, and tailor their training programs accordingly. The app serves as a practical tool for athletes to enhance training precision and achieve targeted performance goals.
 
