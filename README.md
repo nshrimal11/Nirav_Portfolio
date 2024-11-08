@@ -39,6 +39,7 @@ Below are the questions I answer in the project:
     <img src="assets/img/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="100%">
 </p>
 
+-----------------------------------------------------------------------------------------------
 
 ### [Project 2: Wheelchair Basketball Kinematics App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) 
 
