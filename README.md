@@ -47,7 +47,8 @@ This project required skills in **sensor integration** for accurate data capture
 
 Supporting Docs:
 [Poster](Final_Year_Project_Files/Poster.pdf), 
-[Report](Final_Year_Project_Files/Report.pdf)
+[Report](Final_Year_Project_Files/Report.pdf),
+[App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
 
 <p align="center">
     <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball Kinematics App Preview" width="100%">
