@@ -10,9 +10,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Projects
 
 *Note: Click each project title to view the full project, including code, visualizations, and detailed explanations of my analysis steps.*
-<ins>
+
 ### [Project 1: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
-</ins>
+
 
 This project was created out of a desire to navigate and understand the job market more effectively as well as to aid me in my job search. It delves into top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
