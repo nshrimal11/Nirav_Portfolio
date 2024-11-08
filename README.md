@@ -68,4 +68,3 @@ Supporting Docs:
     <img src="Final_Year_Project_Files/designed_system.jpg" alt="Wheelchair Basketball System Design" width="100%">
 </p>
 
-
