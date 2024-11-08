@@ -9,14 +9,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Projects
 
-*Note: Click each project title to view the full project, including code, visualizations, and detailed explanations of my analysis steps.*
+*Note: **Click each project title** to view the full project, including code, visualizations, and/or detailed explanations of my analysis steps.*
 
 ### [Project 1: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
 
-
 This project was created out of a desire to navigate and understand the job market more effectively as well as to aid me in my job search. It delves into top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
-Below are the questions I answer in the project:
+Below are the main questions I answer in the project:
 
  - What are the most in-demand skills for the top 3 most popular data roles?
  - How are in-demand skills trending for Data Analysts?
@@ -28,7 +27,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights. I also used the following Python libraries:
     - **Pandas Library:** This was used to analyze the data. 
     - **Matplotlib Library:** To visualize the data.
-    - **Seaborn Library:** Helped me create more advanced visuals. 
+    - **Seaborn Library:** Helped me create more advanced visuals.
 - **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Visual Studio Code:** My go-to for executing Python scripts.
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
@@ -52,7 +51,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 ### [Project 2: Wheelchair Basketball Kinematics App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) 
 
-This project, completed as part of my undergraduate final-year research, involved designing an accessible, cost-effective sensor-based system specifically for wheelchair basketball athletes to monitor performance metrics relevant to their sport. I developed an accompanying R Shiny app that processes data from the system to calculate, display, and analyze key kinematic metrics. This enables athletes to track their performance, pinpoint areas for improvement, and tailor their training programs accordingly. The app serves as a practical tool for athletes to enhance training precision and achieve targeted performance goals.
+This project, completed as part of my undergraduate final-year research, involved designing an **accessible, cost-effective sensor-based system** specifically for **wheelchair basketball athletes** to monitor performance metrics relevant to their sport. I developed an accompanying **R Shiny app** that processes data from the **system to calculate, display, and analyze key kinematic metrics**. This enables athletes to track their performance, pinpoint areas for improvement, and tailor their training programs accordingly. The app serves as a **practical tool for athletes** to enhance training precision and achieve targeted performance goals.
 
 This project required skills in **sensor integration** for accurate data capture, **data preprocessing** to clean and prepare raw sensor data, **statistical analysis** to derive meaningful insights, and **data visualization** for an intuitive display of performance metrics. Additionally, it involved **R programming** for app development, **Shiny framework** expertise for interactive data visualization, and UI/UX design to create a user-friendly interface.
 
