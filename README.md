@@ -11,9 +11,9 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 *Note: **Click each project title** to view the full project, including code, visualizations, and/or detailed explanations of my analysis steps.*
 
-### [Project 1: UK Road Accident Analysis (PowerBI)]([https://github.com/nshrimal11/Data_Job_Market_Project](https://app.powerbi.com/reportEmbed?reportId=5c272b37-f0f5-4e03-b4be-e66560630c71&autoAuth=true&ctid=d1adaf23-c50a-4a31-a275-e7b50c6a0776))
+### [Project 1: UK Road Accident Analysis (PowerBI)](https://github.com/nshrimal11/Data_Job_Market_Project) 
 
-
+<iframe title="Road Accident Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5c272b37-f0f5-4e03-b4be-e66560630c71&autoAuth=true&ctid=d1adaf23-c50a-4a31-a275-e7b50c6a0776" frameborder="0" allowFullScreen="true"></iframe>
 
 
 ### [Project 2: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
