@@ -5,7 +5,7 @@ Hey, I'm Nirav! I am a recent Sports Technology (BEng) graduate from Loughboroug
 
 This repository serves to showcase my skills and as a platform to share my projects, as well as to track my progress in Data Analytics and Data Science-related topics.
 
-[Click Here!](Resume.pdf) to see my resume.
+[Click Here!](Nirav Resume.pdf) to see my resume.
 
 ## Projects
 
