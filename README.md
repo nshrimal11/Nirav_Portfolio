@@ -32,19 +32,19 @@ Below are the main questions I answer in the project:
  - What are the optimal skills for data analysts to learn?
 
 <p align="center">
-    <img src="assets/img/skill_demand_top_roles.png" alt="Visualization of Top Skills for Data Roles" width="100%">
+    <img src="assets/img/skill_demand_top_roles.png" alt="Visualization of Top Skills for Data Roles" width="75%">
 </p>
 
 <p align="center">
-    <img src="assets/img/skill_trend.png" alt="Trending Top Skills for Data Analysts in the US" width="100%">
+    <img src="assets/img/skill_trend.png" alt="Trending Top Skills for Data Analysts in the US" width="75%">
 </p>
 
 <p align="center">
-    <img src="assets/img/salary_distribution_data_roles_us.png" alt="Salary Distributions of Data Jobs in the US" width="100%">
+    <img src="assets/img/salary_distribution_data_roles_us.png" alt="Salary Distributions of Data Jobs in the US" width="75%">
 </p>
 
 <p align="center">
-    <img src="assets/img/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="100%">
+    <img src="assets/img/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="75%">
 </p>
 
 
