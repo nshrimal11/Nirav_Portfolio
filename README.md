@@ -13,11 +13,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ### [Project 1: UK Road Accident Analysis (Power BI)]()
 
-
-
-https://github.com/user-attachments/assets/0bfe7f77-328e-43c1-ad7a-72c3d69f5949
-
-
+https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Trial.mp4
 
 ### [Project 2: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
 
