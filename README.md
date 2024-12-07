@@ -13,9 +13,11 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ### [Project 1: UK Road Accident Analysis (Power BI)]()
 
-Explore this interactive Power BI dashboard below:
-
-https://app.powerbi.com/reportEmbed?reportId=5c272b37-f0f5-4e03-b4be-e66560630c71&autoAuth=true&ctid=d1adaf23-c50a-4a31-a275-e7b50c6a0776
+<p>Watch the video below to see my Power BI dashboard in action:</p>
+<video width="100%" controls>
+    <source src="PowerBI_Projects/Road_Accident_Dashboard_Preview.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 
