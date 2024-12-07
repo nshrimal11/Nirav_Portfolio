@@ -14,7 +14,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ### [Project 1: UK Road Accident Analysis (Power BI)]()
 
 <p>Watch the video below to see my Power BI dashboard in action:</p>
-
+https://github.com/user-attachments/assets/dfdce63c-0253-4266-98d7-04d441e3942b
 
 <video src="PowerBI_Projects/Road_Accident_Dashboard_Preview.mp4" width="320" height="240" controls></video>
 
