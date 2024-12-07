@@ -15,7 +15,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 <p align="center">
     <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Trial.mp4" type="video/mp4">
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Road_Accident_Dashboard_Preview.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
