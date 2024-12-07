@@ -23,7 +23,6 @@ Highlights include:
 This analysis aims to support road safety initiatives and identify areas for improvement in traffic management.
 
 Click the video below to see a preview of the dashboard in action!
-
 <p align="center">
     <video width="100%" controls>
         <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Accident_Trial.mp4" type="video/mp4">
