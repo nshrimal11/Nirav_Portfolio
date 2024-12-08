@@ -69,6 +69,14 @@ Supporting Docs:
 [Report](Final_Year_Project_Files/Report.pdf),
 [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
 
+Click the video below to see a preview of the app in action!
+<p align="center">
+    <video width="100%" controls>
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/Final_Year_Project_Files/Wheelchair_App_Preview.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</p>
+
 <p align="center">
     <img src="Final_Year_Project_Files/app_preview.jpg" alt="Wheelchair Basketball Kinematics App Preview" width="100%">
 </p>
