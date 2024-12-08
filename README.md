@@ -46,10 +46,6 @@ Below are the main questions I answer in the project:
 </p>
 
 <p align="center">
-    <img src="assets/img/skill_trend.png" alt="Trending Top Skills for Data Analysts in the US" width="85%">
-</p>
-
-<p align="center">
     <img src="assets/img/salary_distribution_data_roles_us.png" alt="Salary Distributions of Data Jobs in the US" width="85%">
 </p>
 
@@ -64,7 +60,7 @@ This project, completed as part of my undergraduate final-year research, involve
 
 This project required skills in **sensor integration** for accurate data capture, **data preprocessing** to clean and prepare raw sensor data, **statistical analysis** to derive meaningful insights, and **data visualization** for an intuitive display of performance metrics. Additionally, it involved **R programming** for app development, **Shiny framework** expertise for interactive data visualization, and UI/UX design to create a user-friendly interface.
 
-Supporting Docs:
+**Supporting Docs:**
 [Poster](Final_Year_Project_Files/Poster.pdf), 
 [Report](Final_Year_Project_Files/Report.pdf),
 [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
