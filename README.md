@@ -25,7 +25,7 @@ This analysis aims to support road safety initiatives and identify areas for imp
 Click the video below to see a preview of the dashboard in action!
 <p align="center">
     <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Accident_Trial.mp4" type="video/mp4">
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Road_Accident_Dashboard.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
