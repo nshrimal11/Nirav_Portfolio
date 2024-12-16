@@ -11,7 +11,23 @@ This repository serves as a platform to showcase my skills and share my projects
 
 *Note: **Click each project title** to view the full project, including code, visualizations, and/or detailed explanations of my analysis steps.*
 
-### [Project 1: UK Road Accident Dashboard (Power BI)](https://github.com/nshrimal11/PowerBI_Projects)
+### [Project 1: Spotify Top Tracks Dashboard (Power BI)](https://github.com/nshrimal11/PowerBI_Projects)
+
+This interactive Power BI dashboard provides a comprehensive analysis of the top tracks in Spotify for the years 2018-2023.
+
+This project involved using DENEB and HTML to create some of the visualizations. 
+
+Highlights include:
+
+Click the video below to see a preview of the dashboard in action!
+<p align="center">
+    <video width="100%" controls>
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Spotify_Dashboard_Preview.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</p>
+
+### [Project 2: UK Road Accident Dashboard (Power BI)](https://github.com/nshrimal11/PowerBI_Projects)
 
 This interactive Power BI dashboard provides a comprehensive analysis of road accidents in the UK for the years 2021 and 2022. Key metrics such as total casualties, accident trends, and breakdowns by vehicle type, road type, and environmental conditions are visualized to uncover meaningful insights.
 
@@ -30,7 +46,7 @@ Click the video below to see a preview of the dashboard in action!
     </video>
 </p>
 
-### [Project 2: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
+### [Project 3: Data Job Market Analysis](https://github.com/nshrimal11/Data_Job_Market_Project) 
 
 This project was created out of a desire to navigate and understand the job market more effectively as well as to aid me in my job search. It delves into top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
@@ -52,7 +68,7 @@ Below are the main questions I answer in the project:
 </p>
 
 
-### [Project 3: Wheelchair Basketball Kinematics App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) 
+### [Project 4: Wheelchair Basketball Kinematics App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/) 
 
 This project, completed as part of my undergraduate final-year research, involved designing an **accessible, cost-effective sensor-based system** specifically for **wheelchair basketball athletes** to monitor performance metrics relevant to their sport. I developed an accompanying **R Shiny app** that processes data from the **system to calculate, display, and analyze key kinematic metrics**. This enables athletes to track their performance, pinpoint areas for improvement, and tailor their training programs accordingly. The app serves as a **practical tool for athletes** to enhance training precision and achieve targeted performance goals.
 
