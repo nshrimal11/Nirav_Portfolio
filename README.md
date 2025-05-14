@@ -9,7 +9,7 @@ This repository serves as a platform to showcase my skills and share my projects
 
 [Click Here!](https://github.com/nshrimal11/Data_Analytics_Projects) to see detailed explanations of all my projects.
 
-## Projects
+## Project Overviews
 
 *Note: **Click each project title** to view the full project, including code, visualizations, and/or detailed explanations of my analysis steps.*
 
