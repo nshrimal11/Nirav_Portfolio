@@ -7,7 +7,7 @@ This repository serves as a platform to showcase my skills and share my projects
 
 - [Click Here!](Nirav_Data_Analyst_Resume.pdf) to see my resume.
 
-- [Click Here!](https://github.com/nshrimal11/Data_Analytics_Projects) to see detailed explanations of all my projects.
+- [Click Here!](https://github.com/nshrimal11/Data_Analytics_Projects) to view my Github repository with detailed explanations of all my projects.
 
 ## Project Overviews
 
