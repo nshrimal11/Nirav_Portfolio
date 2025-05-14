@@ -13,6 +13,8 @@ This repository serves as a platform to showcase my skills and share my projects
 
 ### [Project 1: Spotify Top Tracks Dashboard (Power BI)](https://github.com/nshrimal11/Data_Analytics_Projects)
 
+[TRY(Power BI)](https://github.com/nshrimal11/Data_Analytics_Projects/tree/main/Spotify_Top_Tracks_Insights)
+
 This interactive Power BI dashboard analyzes the most streamed tracks on Spotify from 2018 to 2023, providing a detailed breakdown of streaming trends, artist performance, and song characteristics over time. The project leverages a dataset enriched with Spotify cover art images using the Spotify API and Python, integrating HTML visuals and DENEB-based custom visualizations to create a dynamic and insightful user experience. 
 
 Highlights include:
