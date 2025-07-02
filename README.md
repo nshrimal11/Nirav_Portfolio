@@ -64,13 +64,13 @@ Below are the main questions I answer in the project:
  - What are the optimal skills for data analysts to learn?
 
 <p align="center">
-    <img src="assets/img/skill_demand_top_roles.png" alt="Visualization of Top Skills for Data Roles" width="85%">
+    <img src="Data_Analytics_Projects/Data_Job_Market_Analysis/Visualizations/skill_demand_top_roles.png" alt="Visualization of Top Skills for Data Roles" width="85%">
 </p>
 <p align="center">
-    <img src="assets/img/salary_distribution_data_roles_us.png" alt="Salary Distributions of Data Jobs in the US" width="85%">
+    <img src="Data_Analytics_Projects/Data_Job_Market_Analysis/Visualizations/salary_distribution_data_roles_us.png" alt="Salary Distributions of Data Jobs in the US" width="85%">
 </p>
 <p align="center">
-    <img src="assets/img/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="85%">
+    <img src="Data_Analytics_Projects/Data_Job_Market_Analysis/Visualizations/optimal_DA_skills.png" alt="Most Optimal Skills for Data Analysts in the US" width="85%">
 </p>
 
 
@@ -81,9 +81,8 @@ This project, completed as part of my undergraduate final-year research, involve
 This project required skills in **sensor integration** for accurate data capture, **data preprocessing** to clean and prepare raw sensor data, **statistical analysis** to derive meaningful insights, and **data visualization** for an intuitive display of performance metrics. Additionally, it involved **R programming** for app development, **Shiny framework** expertise for interactive data visualization, and UI/UX design to create a user-friendly interface.
 
 **Supporting Docs:**
-[poster trial](https://github.com/nshrimal11/Nirav_Portfolio/blob/main/Data_Analytics_Projects/Wheelchair_Basketball_Kinematics/Final_Year_Project_Files/Poster.pdf)
-[Poster](Final_Year_Project_Files/Poster.pdf), 
-[Report](Final_Year_Project_Files/Report.pdf),
+[Poster](https://github.com/nshrimal11/Nirav_Portfolio/blob/main/Data_Analytics_Projects/Wheelchair_Basketball_Kinematics/Final_Year_Project_Files/Poster.pdf), 
+[Report](https://github.com/nshrimal11/Nirav_Portfolio/blob/main/Data_Analytics_Projects/Wheelchair_Basketball_Kinematics/Final_Year_Project_Files/Report.pdf),
 [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
 
 Click the video below to see a preview of the app in action!
