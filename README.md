@@ -81,6 +81,7 @@ This project, completed as part of my undergraduate final-year research, involve
 This project required skills in **sensor integration** for accurate data capture, **data preprocessing** to clean and prepare raw sensor data, **statistical analysis** to derive meaningful insights, and **data visualization** for an intuitive display of performance metrics. Additionally, it involved **R programming** for app development, **Shiny framework** expertise for interactive data visualization, and UI/UX design to create a user-friendly interface.
 
 **Supporting Docs:**
+[poster trial](https://github.com/nshrimal11/Nirav_Portfolio/blob/main/Data_Analytics_Projects/Wheelchair_Basketball_Kinematics/Final_Year_Project_Files/Poster.pdf)
 [Poster](Final_Year_Project_Files/Poster.pdf), 
 [Report](Final_Year_Project_Files/Report.pdf),
 [App](https://hl03zf-nick-shrimal.shinyapps.io/Wheelchair_Project/)
