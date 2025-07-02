@@ -7,7 +7,7 @@ This repository serves as a platform to showcase my skills and share my projects
 
 - [Click Here!](Nirav_Data_Analyst_Resume.pdf) to see my resume.
 
-- [Click Here!](https://github.com/nshrimal11/Data_Analytics_Projects) to view my Github repository with detailed explanations of all my projects.
+- [Click Here!](https://github.com/nshrimal11/Nirav_Portfolio/Data_Analytics_Projects) to view my Github repository with detailed explanations of all my projects.
 
 ## Project Overviews
 
@@ -28,7 +28,7 @@ Highlights include:
 Click the video below to see a preview of the dashboard in action!
 <p align="center">
     <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/Spotify_Top_Tracks/Spotify_Dashboard_Preview.mp4" type="video/mp4">
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/Data_Analytics_Projects/Spotify_Top_Tracks_Insights/Spotify_Dashboard_Preview.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
@@ -47,7 +47,7 @@ This analysis aims to support road safety initiatives and identify areas for imp
 Click the video below to see a preview of the dashboard in action!
 <p align="center">
     <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Nirav_Portfolio/PowerBI_Projects/UK_Road_Accidents/Road_Accident_Dashboard_Preview.mp4" type="video/mp4">
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/Data_Analytics_Projects/UK_Road_Accidents_Analysis/Road_Accident_Dashboard_Preview.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
@@ -88,7 +88,7 @@ This project required skills in **sensor integration** for accurate data capture
 Click the video below to see a preview of the app in action!
 <p align="center">
     <video width="100%" controls>
-        <source src="https://nshrimal11.github.io/Nirav_Portfolio/Final_Year_Project_Files/Wheelchair_App_Preview.mp4" type="video/mp4">
+        <source src="https://nshrimal11.github.io/Nirav_Portfolio/Data_Analytics_Projects/Wheelchair_Basketball_Kinematics/Final_Year_Project_Files/Wheelchair_App_Preview.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </p>
